@@ -12,3 +12,5 @@ private int age;
 private String address;
 
 public void test(){}
+
+public void test01(){}
