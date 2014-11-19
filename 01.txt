@@ -3,3 +3,5 @@
 public void add(){
 
 }
+
+private String username;
